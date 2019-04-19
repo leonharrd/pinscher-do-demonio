@@ -1,0 +1,10 @@
+C:\Users\1binfo\Documents\MichaeLeu\Retangulo\Retangulo\bin\Debug\Retangulo.exe.config
+C:\Users\1binfo\Documents\MichaeLeu\Retangulo\Retangulo\bin\Debug\Retangulo.exe
+C:\Users\1binfo\Documents\MichaeLeu\Retangulo\Retangulo\bin\Debug\Retangulo.pdb
+C:\Users\1binfo\Documents\MichaeLeu\Retangulo\Retangulo\obj\Debug\Retangulo.csprojAssemblyReference.cache
+C:\Users\1binfo\Documents\MichaeLeu\Retangulo\Retangulo\obj\Debug\Retangulo.title.resources
+C:\Users\1binfo\Documents\MichaeLeu\Retangulo\Retangulo\obj\Debug\Retangulo.Properties.Resources.resources
+C:\Users\1binfo\Documents\MichaeLeu\Retangulo\Retangulo\obj\Debug\Retangulo.csproj.GenerateResource.cache
+C:\Users\1binfo\Documents\MichaeLeu\Retangulo\Retangulo\obj\Debug\Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\1binfo\Documents\MichaeLeu\Retangulo\Retangulo\obj\Debug\Retangulo.exe
+C:\Users\1binfo\Documents\MichaeLeu\Retangulo\Retangulo\obj\Debug\Retangulo.pdb

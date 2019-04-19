@@ -1,0 +1,7 @@
+C:\Users\Leticia\Desktop\leo(zin)\etec\uns c# aleatorio aí\primos\primos\primos\bin\Debug\primos.exe.config
+C:\Users\Leticia\Desktop\leo(zin)\etec\uns c# aleatorio aí\primos\primos\primos\bin\Debug\primos.exe
+C:\Users\Leticia\Desktop\leo(zin)\etec\uns c# aleatorio aí\primos\primos\primos\bin\Debug\primos.pdb
+C:\Users\Leticia\Desktop\leo(zin)\etec\uns c# aleatorio aí\primos\primos\primos\obj\Debug\primos.csprojAssemblyReference.cache
+C:\Users\Leticia\Desktop\leo(zin)\etec\uns c# aleatorio aí\primos\primos\primos\obj\Debug\primos.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\Desktop\leo(zin)\etec\uns c# aleatorio aí\primos\primos\primos\obj\Debug\primos.exe
+C:\Users\Leticia\Desktop\leo(zin)\etec\uns c# aleatorio aí\primos\primos\primos\obj\Debug\primos.pdb
