@@ -10,11 +10,18 @@ using System.Windows.Forms;
 
 namespace FrontEnd
 {
-    public partial class Principal : Form
+    public partial class Calendario : Form
     {
-        public Principal()
+        public Calendario()
         {
             InitializeComponent();
+        }
+
+        private void btmVoltar_Click(object sender, EventArgs e)
+        {
+            Principal prin = new Principal();
+            Hide();
+            prin.Show();
         }
     }
 }

@@ -8,3 +8,16 @@ C:\Users\Leticia\Desktop\leo(zin)\coisas importantes\etec\TCM 1º módulo\FrontE
 C:\Users\Leticia\Desktop\leo(zin)\coisas importantes\etec\TCM 1º módulo\FrontEnd\FrontEnd\obj\Release\FrontEnd.csproj.CoreCompileInputs.cache
 C:\Users\Leticia\Desktop\leo(zin)\coisas importantes\etec\TCM 1º módulo\FrontEnd\FrontEnd\obj\Release\FrontEnd.exe
 C:\Users\Leticia\Desktop\leo(zin)\coisas importantes\etec\TCM 1º módulo\FrontEnd\FrontEnd\obj\Release\FrontEnd.pdb
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\bin\Release\FrontEnd.exe.config
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\bin\Release\FrontEnd.exe
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\bin\Release\FrontEnd.pdb
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.csprojAssemblyReference.cache
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.login.resources
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.Principal.resources
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.Properties.Resources.resources
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.csproj.GenerateResource.cache
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.exe
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.pdb
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.Calendario.resources
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.PDV.resources

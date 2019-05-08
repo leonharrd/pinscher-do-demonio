@@ -28,5 +28,10 @@ namespace FrontEnd
             Hide();
             mainmenu.ShowDialog();
         }
+
+        private void login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

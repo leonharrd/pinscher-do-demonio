@@ -1,6 +1,6 @@
 ﻿namespace FrontEnd
 {
-    partial class Principal
+    partial class Estoque
     {
         /// <summary>
         /// Required designer variable.
@@ -28,17 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // Principal
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Principal";
-            this.Text = "Main Menu";
-            this.ResumeLayout(false);
-
+            this.Text = "Estoque";
         }
 
         #endregion

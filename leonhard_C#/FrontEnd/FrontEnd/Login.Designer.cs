@@ -39,40 +39,42 @@
             // txtlogin
             // 
             this.txtlogin.AutoSize = true;
-            this.txtlogin.Font = new System.Drawing.Font("Perpetua Titling MT", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtlogin.Location = new System.Drawing.Point(237, 183);
+            this.txtlogin.BackColor = System.Drawing.Color.Transparent;
+            this.txtlogin.Font = new System.Drawing.Font("Calibri", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtlogin.Location = new System.Drawing.Point(259, 250);
             this.txtlogin.Name = "txtlogin";
-            this.txtlogin.Size = new System.Drawing.Size(107, 32);
+            this.txtlogin.Size = new System.Drawing.Size(58, 26);
             this.txtlogin.TabIndex = 0;
             this.txtlogin.Text = "Login";
             // 
             // txtpass
             // 
             this.txtpass.AutoSize = true;
-            this.txtpass.Font = new System.Drawing.Font("Perpetua Titling MT", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtpass.Location = new System.Drawing.Point(237, 242);
+            this.txtpass.BackColor = System.Drawing.Color.Transparent;
+            this.txtpass.Font = new System.Drawing.Font("Calibri", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtpass.Location = new System.Drawing.Point(259, 309);
             this.txtpass.Name = "txtpass";
-            this.txtpass.Size = new System.Drawing.Size(112, 32);
+            this.txtpass.Size = new System.Drawing.Size(64, 26);
             this.txtpass.TabIndex = 1;
             this.txtpass.Text = "Senha";
             // 
             // tbxLogin
             // 
-            this.tbxLogin.Location = new System.Drawing.Point(350, 195);
+            this.tbxLogin.Location = new System.Drawing.Point(346, 256);
             this.tbxLogin.Name = "tbxLogin";
-            this.tbxLogin.Size = new System.Drawing.Size(150, 20);
+            this.tbxLogin.Size = new System.Drawing.Size(191, 20);
             this.tbxLogin.TabIndex = 2;
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(350, 254);
+            this.textBox1.Location = new System.Drawing.Point(346, 315);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(150, 20);
+            this.textBox1.Size = new System.Drawing.Size(191, 20);
             this.textBox1.TabIndex = 3;
             // 
             // loginbutton
             // 
-            this.loginbutton.Location = new System.Drawing.Point(298, 334);
+            this.loginbutton.Location = new System.Drawing.Point(320, 368);
             this.loginbutton.Name = "loginbutton";
             this.loginbutton.Size = new System.Drawing.Size(75, 23);
             this.loginbutton.TabIndex = 4;
@@ -82,7 +84,7 @@
             // 
             // exitbutton
             // 
-            this.exitbutton.Location = new System.Drawing.Point(405, 334);
+            this.exitbutton.Location = new System.Drawing.Point(421, 368);
             this.exitbutton.Name = "exitbutton";
             this.exitbutton.Size = new System.Drawing.Size(75, 23);
             this.exitbutton.TabIndex = 5;
@@ -94,6 +96,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::FrontEnd.Properties.Resources.Fundo_FE_Login1;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.exitbutton);
             this.Controls.Add(this.loginbutton);
@@ -103,6 +106,7 @@
             this.Controls.Add(this.txtlogin);
             this.Name = "login";
             this.Text = "Login";
+            this.Load += new System.EventHandler(this.login_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
