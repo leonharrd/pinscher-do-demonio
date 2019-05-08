@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bhaskara(acho)", "Bhaskara(acho)\Bhaskara(acho).csproj", "{77FDAE10-86A7-4FAC-91ED-E5FD5AE67661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77FDAE10-86A7-4FAC-91ED-E5FD5AE67661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FDAE10-86A7-4FAC-91ED-E5FD5AE67661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FDAE10-86A7-4FAC-91ED-E5FD5AE67661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FDAE10-86A7-4FAC-91ED-E5FD5AE67661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADF21AF2-015C-4FE8-8E9B-0B8A57A803B5}
+	EndGlobalSection
+EndGlobal
